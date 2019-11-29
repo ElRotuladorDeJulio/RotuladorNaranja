@@ -5,6 +5,7 @@ Enlaces útiles criptografía:
   - http://mtk911.cf/cipher/
   - https://www.dcode.fr/
   - https://www.boxentriq.com/code-breaking
+  - https://github.com/JohnHammond/ctf-katana
 
 Herramientas útiles web:
   
