@@ -14,3 +14,8 @@ Herramientas útiles web:
   * Netcat:
     - https://blog.desdelinux.net/usando-netcat-algunos-comandos-practicos/
         
+Herramientas útiles para análisis forense:
+
+  * Volatility:
+    - https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
+
