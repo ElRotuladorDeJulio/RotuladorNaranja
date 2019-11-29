@@ -18,4 +18,7 @@ Herramientas útiles para análisis forense:
 
   * Volatility:
     - https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
-
+    
+Metasploit:
+   - https://blog.ehcgroup.io/index.php/2018/08/02/3647/
+   
