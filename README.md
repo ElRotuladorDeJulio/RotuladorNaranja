@@ -23,3 +23,5 @@ Herramientas útiles para análisis forense:
 Metasploit:
    - https://blog.ehcgroup.io/index.php/2018/08/02/3647/
    
+Cambiar el teclado a español:
+  - " setxkbmap es sundeadkeys "
